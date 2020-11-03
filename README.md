@@ -8,7 +8,7 @@ với kiến ​​trúc MVC  được tích hợp nhiều tính năng cho khác
 - Phân công nhiệm vụ:
  	+ Quân: Model
 	+ Bảo: Controller
-	+ Thông: view
+	+ Thông: View
 
 - các tính năng cơ bản ban đầu:
 	+ Giới thiệu về khách sạn
