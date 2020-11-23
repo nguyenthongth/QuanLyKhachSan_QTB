@@ -1,11 +1,20 @@
+<<<<<<< HEAD
 # QuanLyKhachSan_QTB
 Xây dựng website " Quản lý và đặt phòng khách sạn QTB "
+=======
+# QuanLyHomeStay
+Xây dựng website " Quản lý và đặt phòng HomeStay
+>>>>>>> c15f4b8813c4f7e67a3279fdd9dafcabb70a710d
 
 - Giới thiệu đề tài:
 - Mô tả bài toán: hệ thống quản lý khách sạn và quản lý đặt phòng 
 với kiến ​​trúc MVC  được tích hợp nhiều tính năng cho khách hàng của bạn trải nghiệm và đặt phòng nhanh chóng hơn
 
+<<<<<<< HEAD
 - Phân công nhiệm vụ:
+=======
+ Phân công nhiệm vụ:
+>>>>>>> c15f4b8813c4f7e67a3279fdd9dafcabb70a710d
  	+ Quân: Controller
 	+ Thông: Model,view
 
@@ -27,6 +36,10 @@ với kiến ​​trúc MVC  được tích hợp nhiều tính năng cho khác
 	+ PHP
 	+ MySQL
 	+HTML/CSS/JavaScript
+<<<<<<< HEAD
 	+Boottrap.
 -
 	
+=======
+	+Boottrap. 
+>>>>>>> c15f4b8813c4f7e67a3279fdd9dafcabb70a710d
