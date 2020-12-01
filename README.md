@@ -1,8 +1,5 @@
-
 # QuanLyHomeStay
 Xây dựng website " Quản lý và đặt phòng HomeStay
-
-
 - Giới thiệu đề tài:
 - Mô tả bài toán: hệ thống quản lý khách sạn và quản lý đặt phòng 
 với kiến ​​trúc MVC  được tích hợp nhiều tính năng cho khách hàng của bạn trải nghiệm và đặt phòng nhanh chóng hơn
@@ -18,7 +15,7 @@ với kiến ​​trúc MVC  được tích hợp nhiều tính năng cho khác
 	+ Đặt phòng.
 	+ Tìm Phòng.
 	+ Đặt dịch vụ.
-	+ Thanh toán.
+	+ Thanh toán.<br>
 	2.admin
 	+ Quản lý phòng.
 	+ Quản lý dịch vụ.
