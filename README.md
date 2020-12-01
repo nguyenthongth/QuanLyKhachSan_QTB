@@ -17,7 +17,7 @@ với kiến ​​trúc MVC  được tích hợp nhiều tính năng cho khác
 	+ Đặt phòng.
 	+ Tìm Phòng.
 	+ Đặt dịch vụ.
-	+ Thanh toán.
+	+ Thanh toán.<br>
 	2.admin
 	+ Quản lý phòng.
 	+ Quản lý dịch vụ.
