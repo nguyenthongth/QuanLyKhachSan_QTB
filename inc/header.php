@@ -5,42 +5,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
         <meta http-equiv="x-ua-compatible" content="ie=edge" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>Trang chủ | Masova Hotel</title>
+        <title>Trang chủ | Military Hotel</title>
 
         <link rel="shortcut icon" type="image/x-icon" href="assets/images/icon.png" />
         <link rel="icon" type="image/x-icon" href="assets/images/icon.png" />
-        <meta id="MetaDescription" name="description" content="Tọa lạc tại thành phố Nha Trang, MASOVA HOTEL cung cấp chỗ nghỉ 4 sao với nhà hàng và quầy bar. Khách sạn này nằm gần Trung tâm Thuyền buồm Việt Nam và cách quán Sailing Club chưa đầy 1 km. Chỗ nghỉ này có WiFi miễn phí." />
-        <meta id="MetaKeywords" name="keywords" content="Tọa lạc tại thành phố Nha Trang, MASOVA HOTEL cung cấp chỗ nghỉ 4 sao với nhà hàng và quầy bar. Khách sạn này nằm gần Trung tâm Thuyền buồm Việt Nam và cách quán Sailing Club chưa đầy 1 km. Chỗ nghỉ này có WiFi miễn phí." />
+       
         <link id="ImageLink" rel="image_src" type="image/jpg" href="https://demo.sweetsoft.vn/masova-hotel/assets/images/share.jpg" />
         
-        <meta property="og:url" content="https://demo.sweetsoft.vn/masova-hotel/index.php" />
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content="Trang chủ | Masova Hotel" />
-        <meta property="og:description" content="Tọa lạc tại thành phố Nha Trang, MASOVA HOTEL cung cấp chỗ nghỉ 4 sao với nhà hàng và quầy bar. Khách sạn này nằm gần Trung tâm Thuyền buồm Việt Nam và cách quán Sailing Club chưa đầy 1 km. Chỗ nghỉ này có WiFi miễn phí." />
-        <meta property="og:image" content="https://demo.sweetsoft.vn/masova-hotel/assets/images/share.jpg" />
-        <meta property="og:image:alt" content="Masova Hotel" />
-        <meta property="og:type" content="website" />
-        <meta property="fb:app_id" content="" />
-
-        <meta name="twitter:card" content="https://demo.sweetsoft.vn/masova-hotel/assets/images/share.jpg" />
-        <meta name="twitter:title" content="Trang chủ | Masova Hotel" />
-        <meta name="twitter:description" content="Tọa lạc tại thành phố Nha Trang, MASOVA HOTEL cung cấp chỗ nghỉ 4 sao với nhà hàng và quầy bar. Khách sạn này nằm gần Trung tâm Thuyền buồm Việt Nam và cách quán Sailing Club chưa đầy 1 km. Chỗ nghỉ này có WiFi miễn phí." />
-        <meta name="twitter:image" content="https://demo.sweetsoft.vn/masova-hotel/assets/images/share.jpg" />
-
-        <meta name="dc.created" content="2020-10-09" />
-        <meta name="dc.publisher" content="Sweetsoft JSC" />
-        <meta name="dc.rights.copyright" content="Masova Hotel" />
-        <meta name="dc.creator.name" content="Sweetsoft JSC" />
-        <meta name="dc.creator.email" content="info@nhatrangxanh.com" />
-
-        <meta name="geo.position" content="12.288247, 109.205426" />
-        <meta name="geo.placename" content="Nha Trang, Khanh Hoa, Viet Nam" />
-        <meta name="geo.country" content="VN" />
-        <meta name="geo.region" content="VN-65" />
-
-        <meta name="robots" content="index, follow" />
-        <meta name="revisit-after" content="3 days" />
-        <meta name="rating" content="general" />
+       
         <link rel="alternate" href="https://demo.sweetsoft.vn/masova-hotel/index.php" hreflang="vi-en" />
         <link href="https://demo.sweetsoft.vn/masova-hotel/index.php" rel="canonical" id="canonicalLink" />
         <meta name="copyright" content="Masova Hotel" />
@@ -123,7 +95,7 @@
                             <div class="headerTopLeft">
                                 <ul class="clearfix listMenuHeaderTop">
                                     <li class="listItemHeaderTop"><a target="_blank" class="listLinkHeaderTop" href="#" title="100A8 - 100A9, Trần Phú, Lộc Thọ, Thành phố Nha Trang, Khánh Hòa" target="_blank"><i class="fas fa-map-marker-alt"></i> 100A8 - 100A9, Trần Phú, Lộc Thọ, Thành phố Nha Trang, Khánh Hòa</a></li>
-                                    <li class="listItemHeaderTop"><a class="listLinkHeaderTop" href="tel:02583905999" title="0258 3905 999"><i class="fas fa-phone"></i> Hotline: 0258 3905 999</a></li>
+                                    <li class="listItemHeaderTop"><a class="listLinkHeaderTop" href="tel:02583905999" title="037 5689 031"><i class="fas fa-phone"></i> Hotline: 0258 3905 999</a></li>
                                 </ul>
                             </div>
                         </div>
